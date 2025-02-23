@@ -1,0 +1,12 @@
+C:\Users\Asus\OneDrive\Documents\New folder\AplikasiBacaFile\AplikasiBacaFile\obj\Debug\AplikasiBacaFile.vbproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\New folder\AplikasiBacaFile\AplikasiBacaFile\obj\Debug\AplikasiBacaFile.Form1.resources
+C:\Users\Asus\OneDrive\Documents\New folder\AplikasiBacaFile\AplikasiBacaFile\obj\Debug\AplikasiBacaFile.Resources.resources
+C:\Users\Asus\OneDrive\Documents\New folder\AplikasiBacaFile\AplikasiBacaFile\obj\Debug\AplikasiBacaFile.vbproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Documents\New folder\AplikasiBacaFile\AplikasiBacaFile\obj\Debug\AplikasiBacaFile.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\New folder\AplikasiBacaFile\AplikasiBacaFile\bin\Debug\AplikasiBacaFile.exe.config
+C:\Users\Asus\OneDrive\Documents\New folder\AplikasiBacaFile\AplikasiBacaFile\bin\Debug\AplikasiBacaFile.exe
+C:\Users\Asus\OneDrive\Documents\New folder\AplikasiBacaFile\AplikasiBacaFile\bin\Debug\AplikasiBacaFile.pdb
+C:\Users\Asus\OneDrive\Documents\New folder\AplikasiBacaFile\AplikasiBacaFile\bin\Debug\AplikasiBacaFile.xml
+C:\Users\Asus\OneDrive\Documents\New folder\AplikasiBacaFile\AplikasiBacaFile\obj\Debug\AplikasiBacaFile.exe
+C:\Users\Asus\OneDrive\Documents\New folder\AplikasiBacaFile\AplikasiBacaFile\obj\Debug\AplikasiBacaFile.xml
+C:\Users\Asus\OneDrive\Documents\New folder\AplikasiBacaFile\AplikasiBacaFile\obj\Debug\AplikasiBacaFile.pdb
